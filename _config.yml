@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: April Aeschbacher
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Portfolio for April Aeschbacher
 
 # Your name to show in the footer
-author: Some Person
+author: April Aeschbacher
 
 # --- List of links in the navigation bar --- #
 
@@ -16,7 +16,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "anantaapril.ai"
 
 # --- Logo --- #
 
@@ -38,10 +38,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "aprilaeschbacher@gmail.com"
+  # facebook: deanattali
+  github: AnantaApril.github.io
+  # twitter: daattali
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -68,7 +68,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "www.createdbyaprilann.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -81,8 +81,8 @@ excerpt_length: 50
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-border-col: "#EAEAEA"
+navbar-text-col: "#e5e3e8"
+navbar-border-col: "#6e22f2"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
