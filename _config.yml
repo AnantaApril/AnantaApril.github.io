@@ -16,7 +16,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "anantaapril.ai"
+  Author's home: "http://www.createdbyaprilann.com"
 
 # --- Logo --- #
 
@@ -40,7 +40,7 @@ round-avatar: true
 social-network-links:
   email: "aprilaeschbacher@gmail.com"
   # facebook: deanattali
-  github: AnantaApril.github.io
+  github: AnantaApril
   # twitter: daattali
   rss: true
 #  reddit: yourname
