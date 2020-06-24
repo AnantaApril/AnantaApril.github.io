@@ -1,0 +1,9 @@
+---
+layout: post
+title: Unit 1 Build
+subtitle: Data reshaping and interpreting
+cover-img:
+tags: 
+---
+
+As I embarked upon this adventure into the world of diabetes, I expected to find that there would be a relationship between taking certain medications and the time they spent in the hospiital. After several tries of working with that question, I discovered that what I really wanted to know was basically whether there seemed to be a higher occurence of being re-admitted to the hospital if you were on certain medications. I started with a set of about 25 different medications
